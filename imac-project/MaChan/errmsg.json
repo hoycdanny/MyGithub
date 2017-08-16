@@ -1,0 +1,1018 @@
+[
+  {
+    "Error Code": "0x00000000",
+    "Error Name": "FAVSC_STATUS_OK"
+  },
+  {
+    "Error Code": "0x00000001",
+    "Error Name": "FAVSC_MAC_CSM_ERR_UNKNOWNCMD"
+  },
+  {
+    "Error Code": "0x00000002",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PREEXECPROC"
+  },
+  {
+    "Error Code": "0x00000003",
+    "Error Name": "FAVSC_MAC_CSM_ERR_POSTEXECPROC"
+  },
+  {
+    "Error Code": "0x00000004",
+    "Error Name": "FAVSC_MAC_CSM_ERR_BADENGTST1SUBCMD"
+  },
+  {
+    "Error Code": "0x00000005",
+    "Error Name": "FAVSC_MAC_CSM_ERR_MBPRDADDR"
+  },
+  {
+    "Error Code": "0x00000006",
+    "Error Name": "FAVSC_MAC_CSM_ERR_MBPWRADDR"
+  },
+  {
+    "Error Code": "0x00000007",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_CPU"
+  },
+  {
+    "Error Code": "0x00000008",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_DBG"
+  },
+  {
+    "Error Code": "0x00000009",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_CSM"
+  },
+  {
+    "Error Code": "0x0000000A",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_OEMCFG"
+  },
+  {
+    "Error Code": "0x0000000B",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_HOSTIF"
+  },
+  {
+    "Error Code": "0x0000000C",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_TILIF"
+  },
+  {
+    "Error Code": "0x0000000D",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_BIST"
+  },
+  {
+    "Error Code": "0x0000000F",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_GPIO"
+  },
+  {
+    "Error Code": "0x00000010",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_RFTC"
+  },
+  {
+    "Error Code": "0x00000011",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_PROT"
+  },
+  {
+    "Error Code": "0x00000012",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PROTSCHED_UNKST"
+  },
+  {
+    "Error Code": "0x00000013",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PROTSCHED_AMBANT"
+  },
+  {
+    "Error Code": "0x00000014",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PROTSCHED_NODESC"
+  },
+  {
+    "Error Code": "0x00000015",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PROTSCHED_PORTDEF"
+  },
+  {
+    "Error Code": "0x00000016",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PROTSCHED_NOFRQCH"
+  },
+  {
+    "Error Code": "0x00000017",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PROTSCHED_BADREGION"
+  },
+  {
+    "Error Code": "0x00000018",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PROTSCHED_BADFTIME"
+  },
+  {
+    "Error Code": "0x00000019",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PROTSCHED_FTUNETO"
+  },
+  {
+    "Error Code": "0x0000001A",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_OEMHWOPTS"
+  },
+  {
+    "Error Code": "0x0000001B",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_NVMEMUPD"
+  },
+  {
+    "Error Code": "0x0000001C",
+    "Error Name": "FAVSC_MAC_CSM_ERR_BAD_RESET_KEY"
+  },
+  {
+    "Error Code": "0x0000001D",
+    "Error Name": "FAVSC_MAC_CSM_ERR_DEV_RESET_FAILED"
+  },
+  {
+    "Error Code": "0x0000001E",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_ABORT_MACERRNO"
+  },
+  {
+    "Error Code": "0x0000001F",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_INT_MEMBNDS"
+  },
+  {
+    "Error Code": "0x00000020",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_ENTRYKEY"
+  },
+  {
+    "Error Code": "0x00000021",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_NVFLUSH"
+  },
+  {
+    "Error Code": "0x00000022",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_WRVERFAIL"
+  },
+  {
+    "Error Code": "0x00000023",
+    "Error Name": "FAVSC_MAC_CSM_ERR_INVAL_START_CHAN"
+  },
+  {
+    "Error Code": "0x00000024",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PROTSCHED_UNK_ALGO"
+  },
+  {
+    "Error Code": "0x00000025",
+    "Error Name": "FAVSC_MAC_CSM_ERR_INVAL_PWRMODE"
+  },
+  {
+    "Error Code": "0x00000026",
+    "Error Name": "FAVSC_MAC_CSM_ERR_PWRMODE_CORRUPT"
+  },
+  {
+    "Error Code": "0x00000027",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_TXFAIL"
+  },
+  {
+    "Error Code": "0x00000028",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_UPD_BOUNDS"
+  },
+  {
+    "Error Code": "0x00000029",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_UNKNOWN"
+  },
+  {
+    "Error Code": "0x0000002A",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_RXTO"
+  },
+  {
+    "Error Code": "0x0000002B",
+    "Error Name": "FAVSC_MAC_CSM_ERR_GPIO_NOTAVAIL"
+  },
+  {
+    "Error Code": "0x0000002C",
+    "Error Name": "FAVSC_MAC_CSM_ERR_ANT_NOTAVAIL"
+  },
+  {
+    "Error Code": "0x0000002D",
+    "Error Name": "FAVSC_MAC_CSM_ERR_CMDNOTAVAILABLE"
+  },
+  {
+    "Error Code": "0x0000002E",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NOCORDICDEF"
+  },
+  {
+    "Error Code": "0x0000002F",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_DEBUG"
+  },
+  {
+    "Error Code": "0x00000030",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_TRACE"
+  },
+  {
+    "Error Code": "0x00000031",
+    "Error Name": "FAVSC_MAC_CSM_ERR_BUILD_TARGET_DEVICE_MISMATCH"
+  },
+  {
+    "Error Code": "0x00000032",
+    "Error Name": "FAVSC_MAC_CSM_ERR_DIAGNOSTICS"
+  },
+  {
+    "Error Code": "0x00000033",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_HOSTIFREGS_INIT"
+  },
+  {
+    "Error Code": "0x00000034",
+    "Error Name": "FAVSC_MAC_CSM_ERR_SUBSYSINIT_HANDSHAKE"
+  },
+  {
+    "Error Code": "0x00000035",
+    "Error Name": "FAVSC_MAC_CSM_ERR_NVMEMUPD_INVALID_MODE"
+  },
+  {
+    "Error Code": "0x00000036",
+    "Error Name": "FAVSC_MAC_CSM_ERR_INVALID_CMD_WHILE_IN_CRIT_ERROR"
+  },
+  {
+    "Error Code": "0x00000037",
+    "Error Name": "FAVSC_MAC_CSM_ERR_CRITICAL_ERROR_UNKNOWN"
+  },
+  {
+    "Error Code": "0x00000101",
+    "Error Name": "FAVSC_MAC_RESERVED_0x0101"
+  },
+  {
+    "Error Code": "0x00000102",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_USBDESC"
+  },
+  {
+    "Error Code": "0x00000103",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_USBDESCIDX"
+  },
+  {
+    "Error Code": "0x00000104",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_USBTXEP0"
+  },
+  {
+    "Error Code": "0x00000105",
+    "Error Name": "FAVSC_MAC_RESERVED_0x0105"
+  },
+  {
+    "Error Code": "0x00000106",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_USBRXBUFFSZ"
+  },
+  {
+    "Error Code": "0x00000107",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_RXUNKNOWN"
+  },
+  {
+    "Error Code": "0x00000108",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_TXUNKNOWN"
+  },
+  {
+    "Error Code": "0x00000109",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_BADIFSTATE"
+  },
+  {
+    "Error Code": "0x0000010A",
+    "Error Name": "FAVSC_MAC_RESERVED_0x010A"
+  },
+  {
+    "Error Code": "0x0000010B",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_REGADDR"
+  },
+  {
+    "Error Code": "0x0000010C",
+    "Error Name": "FAVSC_MAC_RESERVED_0x010C"
+  },
+  {
+    "Error Code": "0x0000010D",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_STRDESCINIT"
+  },
+  {
+    "Error Code": "0x0000010E",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_SELECTORBNDS"
+  },
+  {
+    "Error Code": "0x0000010F",
+    "Error Name": "FAVSC_MAC_RESERVED_0x010F"
+  },
+  {
+    "Error Code": "0x00000110",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_PKTALIGN"
+  },
+  {
+    "Error Code": "0x00000111",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_BADRAWMODE"
+  },
+  {
+    "Error Code": "0x00000112",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_UNKLNKSTATE"
+  },
+  {
+    "Error Code": "0x00000113",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_UNKUSBSETUP"
+  },
+  {
+    "Error Code": "0x00000114",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_UARTRXBUFFSZ"
+  },
+  {
+    "Error Code": "0x00000115",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_RAWMODECTL"
+  },
+  {
+    "Error Code": "0x00000116",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_UNKHOSTIF"
+  },
+  {
+    "Error Code": "0x00000117",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_UNKREGSTD"
+  },
+  {
+    "Error Code": "0x00000118",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_DEBUGID"
+  },
+  {
+    "Error Code": "0x00000119",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_DEBUGOVERFLOW"
+  },
+  {
+    "Error Code": "0x0000011A",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_REGREADONLY"
+  },
+  {
+    "Error Code": "0x0000011B",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_REGWRITEONLY"
+  },
+  {
+    "Error Code": "0x0000011C",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_BADREGIONINITVALUES"
+  },
+  {
+    "Error Code": "0x0000011D",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_INVALIDENGTSTARG"
+  },
+  {
+    "Error Code": "0x0000011E",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_INVALIDSETFREQARG"
+  },
+  {
+    "Error Code": "0x0000011F",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_INVALID_RSSI_FILTERING"
+  },
+  {
+    "Error Code": "0x00000120",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_INVALID_TAGACC_CNT"
+  },
+  {
+    "Error Code": "0x00000121",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_INVALID_BW_MODE"
+  },
+  {
+    "Error Code": "0x00000122",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_OEM_MAC_REG_INIT_CTRL_ERROR"
+  },
+  {
+    "Error Code": "0x00000123",
+    "Error Name": "FAVSC_MAC_HOSTIF_ERR_OEM_MAC_REG_INIT_WRITE_ERROR"
+  },
+  {
+    "Error Code": "0x00000200",
+    "Error Name": "FAVSC_MAC_PROTOCOL_ERR_TRUNCATION_UNSUPPORTED"
+  },
+  {
+    "Error Code": "0x00000300",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_BADFRQCHAN"
+  },
+  {
+    "Error Code": "0x00000301",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_BADHOPMODE"
+  },
+  {
+    "Error Code": "0x00000302",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_PLLFAILEDTOLOCK"
+  },
+  {
+    "Error Code": "0x00000303",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_XCVRADC_TIMEDOUT"
+  },
+  {
+    "Error Code": "0x00000304",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_FILTTUNE_TIMEOUT"
+  },
+  {
+    "Error Code": "0x00000305",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_AMBIENTTEMPTOOHOT"
+  },
+  {
+    "Error Code": "0x00000306",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_XCVRTEMPTOOHOT"
+  },
+  {
+    "Error Code": "0x00000307",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_PATEMPTOOHOT"
+  },
+  {
+    "Error Code": "0x00000308",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_PADELTATEMPTOOBIG"
+  },
+  {
+    "Error Code": "0x00000309",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_REVPWRLEVTOOHIGH"
+  },
+  {
+    "Error Code": "0x0000030A",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_BADIFLNAGAIN"
+  },
+  {
+    "Error Code": "0x0000030B",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_TXRF_BIT_FAILED"
+  },
+  {
+    "Error Code": "0x0000030C",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_TXRF_BYTE_FAILED"
+  },
+  {
+    "Error Code": "0x0000030D",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_TXRF_EOT_FAILED"
+  },
+  {
+    "Error Code": "0x0000030E",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_TXRF_PREAM_FAILED"
+  },
+  {
+    "Error Code": "0x0000030F",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_TXRF_FSYNC_FAILED"
+  },
+  {
+    "Error Code": "0x00000310",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_RXRF_ISR_TIMEOUT"
+  },
+  {
+    "Error Code": "0x00000311",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_INVALIDLINKPARMS"
+  },
+  {
+    "Error Code": "0x00000312",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_RXRF_INTERPKTTIMEOUT"
+  },
+  {
+    "Error Code": "0x00000313",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_NO_LINKPROFHDR"
+  },
+  {
+    "Error Code": "0x00000314",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_PROFILE_INVALID"
+  },
+  {
+    "Error Code": "0x00000315",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_DBMVALOUTOFRANGE"
+  },
+  {
+    "Error Code": "0x00000316",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_FWDPWRLEVTOOHIGH"
+  },
+  {
+    "Error Code": "0x00000317",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_NO_GROSSPWRENTRY"
+  },
+  {
+    "Error Code": "0x00000318",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_TARGETPWRTOOHIGH"
+  },
+  {
+    "Error Code": "0x00000319",
+    "Error Name": "FAVSC_MAC_RESERVED_0x0318"
+  },
+  {
+    "Error Code": "0x0000031A",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_ANTENNADISCONNECTED"
+  },
+  {
+    "Error Code": "0x0000031B",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_UNREC_HWOPTFORMAT"
+  },
+  {
+    "Error Code": "0x0000031C",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_HWOPT_BADFWDPWROPT"
+  },
+  {
+    "Error Code": "0x0000031D",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_HWOPT_BADREVPWROPT"
+  },
+  {
+    "Error Code": "0x0000031E",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_HWOPT_BADDRMFILTOPT"
+  },
+  {
+    "Error Code": "0x0000031F",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_HWOPT_BADAMBTEMPOPT"
+  },
+  {
+    "Error Code": "0x00000320",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_HWOPT_BADPATEMPOPT"
+  },
+  {
+    "Error Code": "0x00000321",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_HWOPT_BADXCVRTEMPOPT"
+  },
+  {
+    "Error Code": "0x00000322",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_HWOPT_BADANTSENSOPT"
+  },
+  {
+    "Error Code": "0x00000323",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_BADIFLNAAGCRANGE"
+  },
+  {
+    "Error Code": "0x00000324",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_LPROFBADSELECTOR"
+  },
+  {
+    "Error Code": "0x00000325",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_BADXCVRADDR"
+  },
+  {
+    "Error Code": "0x00000326",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_XCVRADDRNOTINLIST"
+  },
+  {
+    "Error Code": "0x00000327",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_BAD_RFLNA_GAIN_REQ"
+  },
+  {
+    "Error Code": "0x00000328",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_BAD_IFLNA_GAIN_REQ"
+  },
+  {
+    "Error Code": "0x00000329",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_BAD_AGCMIX_GAIN_REQ"
+  },
+  {
+    "Error Code": "0x0000032A",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_HWOPT_BADFWDPWRCOMPOPT"
+  },
+  {
+    "Error Code": "0x0000032B",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_INVALID_PLL_DIVIDER_VALUE"
+  },
+  {
+    "Error Code": "0x0000032C",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_SJC_EXTERNALLOTOOLOW"
+  },
+  {
+    "Error Code": "0x0000032D",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_SJC_EXTERNALLONOTSELECTED"
+  },
+  {
+    "Error Code": "0x0000032E",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_BADLOSOURCE"
+  },
+  {
+    "Error Code": "0x0000032F",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_GENERALRANDOMDATA"
+  },
+  {
+    "Error Code": "0x00000330",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_XVCR_HEALTH_CHECK_FAIL"
+  },
+  {
+    "Error Code": "0x00000331",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_INVALID_OEM_PROFILE_HEADER"
+  },
+  {
+    "Error Code": "0x00000332",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_AUTO_READ_RX_FIFO"
+  },
+  {
+    "Error Code": "0x00000333",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_DC_OFFSET_CALIBRATION"
+  },
+  {
+    "Error Code": "0x00000334",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_LBT_RSSI_CALIBRATION"
+  },
+  {
+    "Error Code": "0x00000335",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_PA_BIAS_CAL_CONFIG"
+  },
+  {
+    "Error Code": "0x00000336",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_FWDPWRLEVERROR"
+  },
+  {
+    "Error Code": "0x00000337",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_HWOPT_BADPABIASDACCTL"
+  },
+  {
+    "Error Code": "0x00000338",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_PA_BIAS_CAL_MEASUREMENT"
+  },
+  {
+    "Error Code": "0x00000339",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_PA_BIAS_CAL_NOT_FOUND"
+  },
+  {
+    "Error Code": "0x0000033A",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_GROSSGAIN_CONFIG_INVALID"
+  },
+  {
+    "Error Code": "0x0000033B",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_SJC_NOT_AVAILABLE_R500"
+  },
+  {
+    "Error Code": "0x0000033C",
+    "Error Name": "FAVSC_MAC_RFTC_ERR_GROSSGAIN_CALIBRATION"
+  },
+  {
+    "Error Code": "0x00000401",
+    "Error Name": "FAVSC_MAC_IO_INVAL_RDMASK"
+  },
+  {
+    "Error Code": "0x00000402",
+    "Error Name": "FAVSC_MAC_IO_INVAL_WRMASK"
+  },
+  {
+    "Error Code": "0x00000403",
+    "Error Name": "FAVSC_MAC_IO_INVAL_PTR_RAM"
+  },
+  {
+    "Error Code": "0x00000404",
+    "Error Name": "FAVSC_MAC_IO_INVAL_PTR_NV"
+  },
+  {
+    "Error Code": "0x00000405",
+    "Error Name": "FAVSC_MAC_IO_INVAL_PTR_NV_ALIGN"
+  },
+  {
+    "Error Code": "0x00000406",
+    "Error Name": "FAVSC_MAC_IO_NV_LOCK_ERR"
+  },
+  {
+    "Error Code": "0x00000407",
+    "Error Name": "FAVSC_MAC_IO_NV_PROG_ERR"
+  },
+  {
+    "Error Code": "0x00000408",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_ADDR_BOUNDS"
+  },
+  {
+    "Error Code": "0x00000409",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_NV_BOUNDS"
+  },
+  {
+    "Error Code": "0x0000040A",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_FMT_KEY"
+  },
+  {
+    "Error Code": "0x0000040B",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_FLUSH"
+  },
+  {
+    "Error Code": "0x0000040C",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_FORMAT"
+  },
+  {
+    "Error Code": "0x0000040D",
+    "Error Name": "FAVSC_MAC_IO_INVAL_IORSVD"
+  },
+  {
+    "Error Code": "0x0000040E",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_STRING_TYPE"
+  },
+  {
+    "Error Code": "0x0000040F",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_STRING_LENGTH"
+  },
+  {
+    "Error Code": "0x00000410",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_STRING_CHARACTER"
+  },
+  {
+    "Error Code": "0x00000411",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_STRING_CURRENT_INVALID"
+  },
+  {
+    "Error Code": "0x00000412",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_FORMAT_KEY_INVALID"
+  },
+  {
+    "Error Code": "0x00000413",
+    "Error Name": "FAVSC_MAC_IO_OEMCFG_FORMAT_CONFIGURATION_INVALID"
+  },
+  {
+    "Error Code": "0x00000414",
+    "Error Name": "FAVSC_MAC_IO_INVAL_NV_SECTOR"
+  },
+  {
+    "Error Code": "0x00000601",
+    "Error Name": "FAVSC_MAC_TILDENIF_ERR_ADDRMISMAT"
+  },
+  {
+    "Error Code": "0x00000602",
+    "Error Name": "FAVSC_MAC_TILDENIF_ERR_RDFAILSAFE"
+  },
+  {
+    "Error Code": "0x00000603",
+    "Error Name": "FAVSC_MAC_TILDENIF_ERR_INVALPWRST"
+  },
+  {
+    "Error Code": "0x00000604",
+    "Error Name": "FAVSC_MAC_TILDENIF_ERR_INVALID_SETTING_R500"
+  },
+  {
+    "Error Code": "0x00000701",
+    "Error Name": "FAVSC_MAC_BIST_ERR_RF_IO_REG_CHK"
+  },
+  {
+    "Error Code": "0x00000702",
+    "Error Name": "FAVSC_MAC_BIST_ERR_RF_REG_BITS"
+  },
+  {
+    "Error Code": "0x10000001",
+    "Error Name": "FAVSC_GEN_ERR"
+  },
+  {
+    "Error Code": "0x10000002",
+    "Error Name": "FAVSC_GEN_ERR_INVALID_PREAMBLE"
+  },
+  {
+    "Error Code": "0x10000003",
+    "Error Name": "FAVSC_GEN_ERR_INVALID_MSG_TYPE"
+  },
+  {
+    "Error Code": "0x10000004",
+    "Error Name": "FAVSC_GEN_ERR_INVALID_MSG_CODE"
+  },
+  {
+    "Error Code": "0x10000005",
+    "Error Name": "FAVSC_GEN_ERR_INVALID_CHECKSUM"
+  },
+  {
+    "Error Code": "0x10000006",
+    "Error Name": "FAVSC_GEN_ERR_INVALID_END_MARK"
+  },
+  {
+    "Error Code": "0x10000007",
+    "Error Name": "FAVSC_GEN_ERR_INVALID_PACKET_FORMAT"
+  },
+  {
+    "Error Code": "0x10000008",
+    "Error Name": "FAVSC_GEN_ERR_INVALID_PAYLOAD_LENGTH"
+  },
+  {
+    "Error Code": "0x10000009",
+    "Error Name": "FAVSC_GEN_ERR_INVALID_PARAMETER"
+  },
+  {
+    "Error Code": "0x1000000A",
+    "Error Name": "FAVSC_GEN_ERR_COMMAND_NOT_SUPPORT"
+  },
+  {
+    "Error Code": "0x1000000B",
+    "Error Name": "FAVSC_GEN_ERR_BUSY"
+  },
+  {
+    "Error Code": "0x1000000C",
+    "Error Name": "FAVSC_GEN_ERR_TIMEOUT"
+  },
+  {
+    "Error Code": "0x1000000D",
+    "Error Name": "FAVSC_GEN_ERR_WAIT_READER_INIT"
+  },
+  {
+    "Error Code": "0x1000000E",
+    "Error Name": "FAVSC_GEN_ERR_READER_MODULE_RESPONSE_TIMEOUT"
+  },
+  {
+    "Error Code": "0x1000000F",
+    "Error Name": "FAVSC_GEN_ERR_WRITE_CONFIG"
+  },
+  {
+    "Error Code": "0x10000010",
+    "Error Name": "FAVSC_GEN_ERR_READ_CONFIG"
+  },
+  {
+    "Error Code": "0x10000011",
+    "Error Name": "FAVSC_GEN_ERR_NO_MEMORY"
+  },
+  {
+    "Error Code": "0x10000012",
+    "Error Name": "FAVSC_GEN_ERR_NETWORK_DEVICE_NOT_READY"
+  },
+  {
+    "Error Code": "0x10000013",
+    "Error Name": "FAVSC_GEN_ERR_NETWORK_CONNECTION_NOT_START"
+  },
+  {
+    "Error Code": "0x10000014",
+    "Error Name": "FAVSC_GEN_ERR_WIRELESS_PARSE_ERROR"
+  },
+  {
+    "Error Code": "0x10000015",
+    "Error Name": "FAVSC_GEN_ERR_VALUE_NOTAVAIL"
+  },
+  {
+    "Error Code": "0x20000001",
+    "Error Name": "FAVSC_GPIO_ERR"
+  },
+  {
+    "Error Code": "0x20000002",
+    "Error Name": "FAVSC_GPIO_ERR_SERIAL_PORT_NOT_OPEN"
+  },
+  {
+    "Error Code": "0x20000003",
+    "Error Name": "FAVSC_GPIO_ERR_INVALID_VERSION"
+  },
+  {
+    "Error Code": "0x20000004",
+    "Error Name": "FAVSC_GPIO_ERR_INVALID_TYPE"
+  },
+  {
+    "Error Code": "0x20000005",
+    "Error Name": "FAVSC_GPIO_ERR_INVALID_CMD"
+  },
+  {
+    "Error Code": "0x20000006",
+    "Error Name": "FAVSC_GPIO_ERR_INVALID_TIME"
+  },
+  {
+    "Error Code": "0x20000007",
+    "Error Name": "FAVSC_GPIO_ERR_INVALID_MASK"
+  },
+  {
+    "Error Code": "0x20000008",
+    "Error Name": "FAVSC_GPIO_ERR_INVALID_CHECKSUM"
+  },
+  {
+    "Error Code": "0x20000009",
+    "Error Name": "FAVSC_GPIO_ERR_COMMAND_TIMEOUT"
+  },
+  {
+    "Error Code": "0x2000000A",
+    "Error Name": "FAVSC_GPIO_ERR_COMMAND_BYTE_TIMEOUT"
+  },
+  {
+    "Error Code": "0x30000001",
+    "Error Name": "FAVSC_READER_ERR_INVALID_INV_CALLBACK"
+  },
+  {
+    "Error Code": "0x30000002",
+    "Error Name": "FAVSC_READER_ERR_INVALID_ACCESS_CALLBACK"
+  },
+  {
+    "Error Code": "0x30000003",
+    "Error Name": "FAVSC_READER_OK_ACCESS_CMD_CALLBACK"
+  },
+  {
+    "Error Code": "0x30000004",
+    "Error Name": "FAVSC_READER_ERR_ACCESS_CMD_CALLBACK"
+  },
+  {
+    "Error Code": "0x30000005",
+    "Error Name": "FAVSC_READER_ERR_SET_ACCESS_ANTENNA_PORT"
+  },
+  {
+    "Error Code": "0x30000006",
+    "Error Name": "FAVSC_READER_ERR_RESTORE_ACCESS_ANTENNA_PORT"
+  },
+  {
+    "Error Code": "0x30000007",
+    "Error Name": "FAVSC_READER_ERR_SET_ANTENNA_TYPE_BI"
+  },
+  {
+    "Error Code": "0x30000008",
+    "Error Name": "FAVSC_READER_ERR_DISABLE_ANTENNA_STATE"
+  },
+  {
+    "Error Code": "0x30000009",
+    "Error Name": "FAVSC_READER_ERR_SET_PORT_DWELL_TIME_ZERO"
+  },
+  {
+    "Error Code": "0x3000000A",
+    "Error Name": "FAVSC_READER_ERR_SET_PORT_INV_CYCLE_ZERO"
+  },
+  {
+    "Error Code": "0x3000000B",
+    "Error Name": "FAVSC_READER_ERR_NO_READ_PARMS"
+  },
+  {
+    "Error Code": "0x3000000C",
+    "Error Name": "FAVSC_READER_ERR_NO_WRITE_PARMS"
+  },
+  {
+    "Error Code": "0x3000000D",
+    "Error Name": "FAVSC_READER_ERR_NO_KILL_PARMS"
+  },
+  {
+    "Error Code": "0x3000000E",
+    "Error Name": "FAVSC_READER_ERR_NO_LOCK_PARMS"
+  },
+  {
+    "Error Code": "0x3000000F",
+    "Error Name": "FAVSC_READER_ERR_NO_BLOCKWRITE_PARMS"
+  },
+  {
+    "Error Code": "0x30000010",
+    "Error Name": "FAVSC_READER_ERR_NO_BLOCKERASE_PARMS"
+  },
+  {
+    "Error Code": "0x30000011",
+    "Error Name": "FAVSC_READER_ERR_SET_ANTENNA_STATE"
+  },
+  {
+    "Error Code": "0x30000013",
+    "Error Name": "FAVSC_READER_ERR_NO_FAV_READ_PARMS"
+  },
+  {
+    "Error Code": "0xFFFFD8F1",
+    "Error Name": "FAVSC_RFID_ERR_ALREADY_OPEN"
+  },
+  {
+    "Error Code": "0xFFFFD8F2",
+    "Error Name": "FAVSC_RFID_ERR_BUFFER_TOO_SMALL"
+  },
+  {
+    "Error Code": "0xFFFFD8F3",
+    "Error Name": "FAVSC_RFID_ERR_FAILURE"
+  },
+  {
+    "Error Code": "0xFFFFD8F4",
+    "Error Name": "FAVSC_RFID_ERR_DRIVER_LOAD"
+  },
+  {
+    "Error Code": "0xFFFFD8F5",
+    "Error Name": "FAVSC_RFID_ERR_DRIVER_MISMATCH"
+  },
+  {
+    "Error Code": "0xFFFFD8F6",
+    "Error Name": "FAVSC_RFID_ERR_RESERVED_01"
+  },
+  {
+    "Error Code": "0xFFFFD8F7",
+    "Error Name": "FAVSC_RFID_ERR_INVALID_ANTENNA"
+  },
+  {
+    "Error Code": "0xFFFFD8F8",
+    "Error Name": "FAVSC_RFID_ERR_INVALID_HANDLE"
+  },
+  {
+    "Error Code": "0xFFFFD8F9",
+    "Error Name": "FAVSC_RFID_ERR_INVALID_PARAMETER"
+  },
+  {
+    "Error Code": "0xFFFFD8FA",
+    "Error Name": "FAVSC_RFID_ERR_NO_SUCH_RADIO"
+  },
+  {
+    "Error Code": "0xFFFFD8FB",
+    "Error Name": "FAVSC_RFID_ERR_NOT_INITIALIZED"
+  },
+  {
+    "Error Code": "0xFFFFD8FC",
+    "Error Name": "FAVSC_RFID_ERR_NOT_SUPPORTED"
+  },
+  {
+    "Error Code": "0xFFFFD8FD",
+    "Error Name": "FAVSC_RFID_ERR_OPERATION_CANCELLED"
+  },
+  {
+    "Error Code": "0xFFFFD8FE",
+    "Error Name": "FAVSC_RFID_ERR_OUT_OF_MEMORY"
+  },
+  {
+    "Error Code": "0xFFFFD8FF",
+    "Error Name": "FAVSC_RFID_ERR_RADIO_BUSY"
+  },
+  {
+    "Error Code": "0xFFFFD900",
+    "Error Name": "FAVSC_RFID_ERR_RADIO_FAILURE"
+  },
+  {
+    "Error Code": "0xFFFFD901",
+    "Error Name": "FAVSC_RFID_ERR_RADIO_NOT_PRESENT"
+  },
+  {
+    "Error Code": "0xFFFFD902",
+    "Error Name": "FAVSC_RFID_ERR_CURRENTLY_NOT_ALLOWED"
+  },
+  {
+    "Error Code": "0xFFFFD903",
+    "Error Name": "FAVSC_RFID_ERR_RADIO_NOT_RESPONDING"
+  },
+  {
+    "Error Code": "0xFFFFD904",
+    "Error Name": "FAVSC_RFID_ERR_NONVOLATILE_INIT_FAILED"
+  },
+  {
+    "Error Code": "0xFFFFD905",
+    "Error Name": "FAVSC_RFID_ERR_NONVOLATILE_OUT_OF_BOUNDS"
+  },
+  {
+    "Error Code": "0xFFFFD906",
+    "Error Name": "FAVSC_RFID_ERR_NONVOLATILE_WRITE_FAILED"
+  },
+  {
+    "Error Code": "0xFFFFD907",
+    "Error Name": "FAVSC_RFID_ERR_RECEIVE_OVERFLOW"
+  },
+  {
+    "Error Code": "0xFFFFD908",
+    "Error Name": "FAVSC_RFID_ERR_UNEXPECTED_VALUE"
+  },
+  {
+    "Error Code": "0xFFFFD909",
+    "Error Name": "FAVSC_RFID_ERROR_NONVOLATILE_CRC_FAILED"
+  },
+  {
+    "Error Code": "0xFFFFD90A",
+    "Error Name": "FAVSC_RFID_ERROR_NONVOLATILE_PACKET_HEADER"
+  },
+  {
+    "Error Code": "0xFFFFD90B",
+    "Error Name": "FAVSC_RFID_ERROR_NONVOLATILE_MAX_PACKET_LENGTH"
+  }
+]
